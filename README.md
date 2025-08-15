@@ -2,4 +2,4 @@
 - 👀 I’m interested in React Js and WordPress.
 - 🌱 I’m currently learning React Js
 - 💞️ I’m looking to collaborate on WordPress and React Js Projects.
-- 📫 How to reach me through my email wahajmansoor@fdstudio.net and visit my website www.fdstudio.net.
+- 📫 How to reach me through my email hi@wahajmansoor.com and visit my website www.wahajmansoor.com.
