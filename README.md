@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @wahajmansoor
-- 👀 I’m interested in React Js and WordPress.
-- 🌱 I’m currently learning React Js
-- 💞️ I’m looking to collaborate on WordPress and React Js Projects.
+- 👀 I’m interested in Next Js and WordPress.
+- 🌱 I’m currently learning Next Js
+- 💞️ I’m looking to collaborate on WordPress and Next Js Projects.
 - 📫 How to reach me through my email hi@wahajmansoor.com and visit my website www.wahajmansoor.com.
